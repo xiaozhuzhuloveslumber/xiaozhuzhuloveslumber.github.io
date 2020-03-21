@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>第一篇文章</title>
+    <url>/2020/03/14/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<h1 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a><center>第一篇文章</center></h1><hr>
+<blockquote>
+<p>啊..终于又重新弄好了<del>因为前几个小时手贱删了原来的blog文件夹</del><br>好在第二次弄轻车熟路，，<del>没用太久时间</del><br>以下是原博文的复述:<br>本博客采用的是Hexo+GitHub page的方案<del>家境贫寒，莫得自己的服务器</del><br>我的搭建参考了这两篇文章：<br><a href="https://blog.csdn.net/weixin_45355752/article/details/94590804" target="_blank" rel="noopener">如何搭建个人博客（详细图解）</a><br><a href="https://segmentfault.com/a/1190000017986794" target="_blank" rel="noopener">超详细 Hexo+ Github Page搭建技术博客教程</a><br>这两篇文章已经讲得很详细，相信你自己搭建的话不会遇到太大的问题<br>以下我遇到的文章里面没有涉及的报错：<br>1.在首次安装hexo的时候，，可能会卡死在过程中。这时要先运行  </p>
+</blockquote>
+<pre><code>npm config set registry https://registry.npm.taobao.org  </code></pre><blockquote>
+<p>修改<code>npm</code>的安装源后就可以正常安装hexo了<br>2.在配置博客的config部署到GitHub上时..要注意type后面有一对单引号..git要写在里面<del>（是的我当时就以为是搞错了就擅自删去了）</del><br>3.再有就是各位弹幕大神的援助了.. .<br><img src="https://i.loli.net/2020/03/03/5NypDo6KtCjhBM2.png" alt="15TX_8L___31@H_R7N_C@TB.png"><br>hmm..<del>我遇到的就这些了吧</del></p>
+</blockquote>
+<hr>
+<p>还有一点点废话吧<br>就自己是闲的出屁而且刚好看见了同学博客写了搭建的方法..那就试试wei。 于是这个blog就诞生了！！学到了不少，也是一次很有价值的尝试呢！<br>当然..像我这种电脑小白..全部都是现学现用，，过程确实没有那么愉快..各种报错不知道怎么搞的时候真的是好想  </p>
+<center>![41b34afbfbedab644d7bcbbaf936afc378311eff.jpg](https://i.loli.net/2020/03/03/Wf6z5uBGOarU2mV.jpg)</center>  
+能自己做肯定是最好的啦~~（然后就走了好几天的弯路~~不能总做伸手党。。  
+
+
+<p>ok..有空再绑定好自己域名,用着GitHub的仓库名就很…<del>（当时注册GitHub的时候起名废了</del>  </p>
+<p>嗯，第一篇文章到此为止吧..  </p>
+<p>2020/3/3 19:12:12 </p>
+]]></content>
+  </entry>
+</search>
